@@ -16,8 +16,13 @@ package Nivell2ex1;
 //        Des del main() de l’aplicació, crea un objecte Smartphone i crida als mètodes anteriors.
 public class Main {
     public static void main(String[] args) {
-    Telefon motorola = new Telefon("666666666");
-        System.out.println(motorola.getNum());
+        //instanciem telefon
+    Telefon motorola = new Telefon("666999666");
+    // truquem al mètode getNum
+        motorola.getNum();
+
+        //instanciem Smartphone
+        Smartphone motog72 = new Smartphone("666777888");
     }
 }
 
