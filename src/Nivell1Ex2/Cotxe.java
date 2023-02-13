@@ -1,12 +1,16 @@
-package Nivell2Ex2;
+package Nivell1Ex2;
 
 public class Cotxe {
-    static final String marca = "Seat";
-    static String model = "Ibiza";
-    final int potencia = 2000;
+    static final String marca="Sense Marca";
+    static String model;
+    final int potencia ;
 
     //constructor
-    public Cotxe() {
+    public Cotxe(String marca,String model,int potencia) {
+        //this.marca=marca; Non es pot inicialitzar
+        this.model=model; // es pot inicialitzar
+        this.potencia=potencia; // Es pot inicilitzar
+
     }
 
     //metode static es crida sense crear objecte

@@ -1,4 +1,4 @@
-package Nivell2Ex2;
+package Nivell1Ex2;
 //Crea una classe "Cotxe" amb els atributs: marca, model i potència. La marca ha de ser estàtic final,
 // el model estàtic i la potència final. Demostra la diferència entre els tres. N’hi ha algun que es pugui
 // inicialitzar al constructor de la classe?
@@ -12,16 +12,18 @@ package Nivell2Ex2;
 
 public class Main {
     public static void main(String[] args) {
-        //es pot cridar a accelerar una vegada has instanciat amb l'objecte
-        Cotxe cotxe1 = new Cotxe();
+        //es pot cridar a accelerar una vegada has instanciat l'objecte
+        Cotxe cotxe1 = new Cotxe("Audi","A3",3000);
         cotxe1.accelerar();
-        //es pot cridar a potencia instanciant primer
-        System.out.println(cotxe1.potencia);
-        //els altes atributs no poden ser cridats sent instanciats pero si es poden cridant a la classe cotxe
-        System.out.println(Cotxe.model);
-        System.out.println(Cotxe.marca);
         //es por cridar a frenar directament sense instanciar pero cridant a classe Cotxe
         Cotxe.frenar();
+        //es pot cridar a potencia instanciant primer.
+        System.out.println(cotxe1.potencia);
+        //Atribut model pot ser cridat per la classe cotxe, sense instanciar
+        System.out.println(Cotxe.model);
+        //La marca resta el nom del principi i no pot variar
+        System.out.println(Cotxe.marca);
+
     }
 }
 

@@ -29,7 +29,7 @@ public class Main {
     }
 }
 
-//Instrument es classe abstrcta
+//Instrument es classe abstracta perque té un metode abstracte
 abstract class Instrument {
     //Atributs
     String nom;
