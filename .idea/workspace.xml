@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc4139df-60d6-4455-b0b6-ccc12ec00b09" name="Changes" comment="Nivell 1 ex2 IT academy update">
-      <change afterPath="$PROJECT_DIR$/src/Nivell2ex1/Rellotge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nivell2ex1/Smartphone.java" afterDir="false" />
+    <list default="true" id="bc4139df-60d6-4455-b0b6-ccc12ec00b09" name="Changes" comment="Nivell 2 ex1 IT academy update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nivell2ex1/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nivell2ex1/Camera.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nivell2ex1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nivell2ex1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nivell2ex1/Telefon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nivell2ex1/Telefon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676301714711</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Nivell 2 ex1 IT academy update">
+      <created>1676305704135</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676305704135</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +94,7 @@
     <MESSAGE value="Nivell 1 ex1 IT academy" />
     <MESSAGE value="Nivell 1 ex2 IT academy" />
     <MESSAGE value="Nivell 1 ex2 IT academy update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nivell 1 ex2 IT academy update" />
+    <MESSAGE value="Nivell 2 ex1 IT academy update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nivell 2 ex1 IT academy update" />
   </component>
 </project>
