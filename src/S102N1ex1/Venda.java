@@ -4,8 +4,10 @@ import java.util.ArrayList;
 
 public class Venda {
     //Atributs
-    private int preuTotal = 0;
+    private int preuTotal;
     private ArrayList<Producte> productes =new ArrayList<Producte>();
+
+    private static int preuAcumulat;
 
     Venda(){}
 
@@ -13,13 +15,10 @@ public class Venda {
         return productes;
     }
 
-    @Override
-    public String toString() {
-        return "Venda{" +
-                "preuTotal=" + preuTotal +
-                ", productes=" + productes +
-                '}';
-    }
+public static String VentesTotals(){
+
+        return "El total de ventes son : "+preuAcumulat + " €";
+}
 
     public void escollirProducte(Producte producte){
         productes.add(producte);
@@ -31,6 +30,7 @@ public class Venda {
         }else {
            for (int i =0; i< productes.size();i++){
                preuTotal += productes.get(i).preu ;
+               preuAcumulat+=productes.get(i).preu;
            }
        }
        return preuTotal;

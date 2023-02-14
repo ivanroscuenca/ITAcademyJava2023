@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc4139df-60d6-4455-b0b6-ccc12ec00b09" name="Changes" comment="Nivell 2 ex1 IT academy update">
-      <change afterPath="$PROJECT_DIR$/src/Nivell3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nivell3/NoticiesBasquet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nivell3/NoticiesEsportives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nivell3/NoticiesF1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nivell3/NoticiesFutbol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nivell3/NoticiesMotociclisme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nivell3/NoticiesTenis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nivell3/Redaccio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nivell3/noticia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/S101N3ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/S102N1ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/S102N1ex1/Producte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/S102N1ex1/Venda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/S102N1ex1/VendaBuidaException.java" afterDir="false" />
+    <list default="true" id="bc4139df-60d6-4455-b0b6-ccc12ec00b09" name="Changes" comment="IT academy update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/S102N1ex1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S102N1ex1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/S102N1ex1/Venda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S102N1ex1/Venda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/S102N1ex1/Venda.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -99,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676361493375</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="IT academy update">
+      <created>1676398874313</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676398874313</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +116,7 @@
     <MESSAGE value="Nivell 1 ex2 IT academy" />
     <MESSAGE value="Nivell 1 ex2 IT academy update" />
     <MESSAGE value="Nivell 2 ex1 IT academy update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nivell 2 ex1 IT academy update" />
+    <MESSAGE value="IT academy update" />
+    <option name="LAST_COMMIT_MESSAGE" value="IT academy update" />
   </component>
 </project>

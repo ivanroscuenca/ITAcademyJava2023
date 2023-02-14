@@ -20,6 +20,7 @@ import java.util.HashMap;
 
 public class Main {
     public static void main(String[] args) throws VendaBuidaException {
+        //Venda listaVentes[] = new Venda[3];
 
         Venda venta1 = new Venda();
         venta1.escollirProducte(new Producte("aigua",1));
@@ -29,26 +30,24 @@ public class Main {
         venta1.escollirProducte(new Producte("cubata",10));
 
         int ventaTotal =venta1.calcularTotal();
-        System.out.println("Venta total : " + ventaTotal + " €");
-
-        String ventaTotalString =venta1.toString();
-        System.out.println(ventaTotalString);
-
-        ArrayList llista = venta1.getProductes();
-        System.out.println(llista);
-
-
+        System.out.println("Venta 1 total : " + ventaTotal + " €");
 
         Venda venta2 = new Venda();
         venta2.escollirProducte(new Producte("cervesa",2));
         venta2.escollirProducte(new Producte("vi",3));
         int ventaTotal2 =venta2.calcularTotal();
-        System.out.println("Venta total : " + ventaTotal2 +" €");
+        System.out.println("Venta 2 total : " + ventaTotal2 +" €");
 
         Venda venta3 = new Venda();
-        venta3.calcularTotal();
+        venta3.escollirProducte(new Producte("cubata",10));
+        int ventatotal3 = venta3.calcularTotal();
+        System.out.println("Venta 3 total : " + ventatotal3 + " €");
 
+        System.out.println(Venda.VentesTotals());
 
+        //Salti VendaBuidaException
+        Venda venta0 = new Venda();
+        int ventaTotal0 =venta0.calcularTotal();
 
     }
 
