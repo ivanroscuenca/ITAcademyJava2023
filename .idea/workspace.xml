@@ -5,6 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc4139df-60d6-4455-b0b6-ccc12ec00b09" name="Changes" comment="Nivell 2 ex1 IT academy update">
+      <change afterPath="$PROJECT_DIR$/src/Nivell3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nivell3/NoticiesBasquet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nivell3/NoticiesEsportives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nivell3/NoticiesF1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nivell3/NoticiesFutbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nivell3/NoticiesMotociclisme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nivell3/NoticiesTenis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nivell3/Redaccio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nivell3/noticia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S101N3ex1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S102N1ex1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S102N1ex1/Producte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S102N1ex1/Venda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/S102N1ex1/VendaBuidaException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +41,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Lg4xp1qoVHqXUa24myUqAr50gX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -76,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676305704135</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Nivell 2 ex1 IT academy update">
+      <created>1676361493375</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676361493375</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
