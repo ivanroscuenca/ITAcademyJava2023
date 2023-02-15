@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc4139df-60d6-4455-b0b6-ccc12ec00b09" name="Changes" comment="IT academy update">
+    <list default="true" id="bc4139df-60d6-4455-b0b6-ccc12ec00b09" name="Changes" comment="IT academy update Venda i Main">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/S102N1ex1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S102N1ex1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/S102N1ex1/Venda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S102N1ex1/Venda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676398874313</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="IT academy update Venda i Main">
+      <created>1676409123606</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676409123606</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +123,7 @@
     <MESSAGE value="Nivell 1 ex2 IT academy update" />
     <MESSAGE value="Nivell 2 ex1 IT academy update" />
     <MESSAGE value="IT academy update" />
-    <option name="LAST_COMMIT_MESSAGE" value="IT academy update" />
+    <MESSAGE value="IT academy update Venda i Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="IT academy update Venda i Main" />
   </component>
 </project>
