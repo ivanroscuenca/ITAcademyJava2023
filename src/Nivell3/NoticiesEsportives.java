@@ -1,7 +1,7 @@
 package Nivell3;
 
 public abstract class NoticiesEsportives {
-    String futbol, bàsquet, tenis, F1,motociclisme;
+
     public NoticiesEsportives() {
 
     }

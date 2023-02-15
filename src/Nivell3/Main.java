@@ -143,7 +143,7 @@ public class Main {
         System.out.println("Benvingut al nostre programa de Notícies");
         System.out.println("**************************************************");
         Scanner entrada = new Scanner(System.in);
-        System.out.println("Seleccionar les següents opcions : " );
+        System.out.println("Seleccionar les següents opcions : ");
         System.out.println(" 1.- Introduir redactor.");
         System.out.println(" 2.- Eliminar redactor.");
         System.out.println(" 3.- Introduir notícia a un redactor.");
@@ -153,10 +153,13 @@ public class Main {
         System.out.println(" 7.- Calcular preu-notícia.");
         int numero = entrada.nextInt();
 
-        switch(numero){
+        switch (numero) {
             case 1 -> {
-
-                
+//                System.out.println("Introduir nom : ");
+//                String nom = entrada.nextLine();
+//                System.out.println("Introduir DNI : ");
+//                String DNI = entrada.nextLine();
+//                //new Redactor(nom, DNI);
             }
 
             case 2 -> {
@@ -179,9 +182,9 @@ public class Main {
             case 7 -> {
 
             }
+            default -> throw new IllegalStateException("Unexpected value: " + numero);
         }
 
     }
 
 }
-
