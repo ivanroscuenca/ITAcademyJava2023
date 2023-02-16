@@ -1,4 +1,4 @@
-package S102N1ex2;
+package S102N2ex1;
 
 //Crea una classe anomenada "Entrada". Aquesta classe ha de servir per controlar les diferents
 // excepcions que poden aparèixer en Java a l’hora d’introduir dades per teclat utilitzant la

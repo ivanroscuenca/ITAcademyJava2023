@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc4139df-60d6-4455-b0b6-ccc12ec00b09" name="Changes" comment="IT academy ArrayIndexOutOfBoundsException fet">
-      <change afterPath="$PROJECT_DIR$/src/S102N1ex2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nivell3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nivell3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nivell3/Redaccio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S101N3ex1/Redactor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/S101N3ex1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S101N3ex1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/S102N1ex2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/S102N2ex1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
